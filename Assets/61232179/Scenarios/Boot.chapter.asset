@@ -44,9 +44,73 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u5D50\u5929"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - 
+      - 
+      - "\u559C\u6085"
+      - 
+      - 
+      - 
+      - 
+      - .5
+      - 
+      - A2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 3
+      debugIndex: 3
+      strings:
+      - "\u6155\u6615\u5C91"
+      - 
+      - "\u4E00\u822C"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - B1.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 4
+      debugIndex: 4
+      strings:
+      - 
+      - 
+      - "\u559C\u6085"
+      - 
+      - 
+      - 
+      - 
+      - .7
+      - 
+      - B2.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232179/Scenarios/61232179.xls:Character
     type: 1
-    textLength: 166
+    textLength: 211
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: d459812c75b7946928eab09c4a3bf020, type: 3}
   - rows:
@@ -72,9 +136,24 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u80CC\u666F"
+      - "\uFF22g"
+      - 
+      - 
+      - 
+      - 
+      - 
+      - 
+      - C.png
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232179/Scenarios/61232179.xls:Texture
     type: 1
-    textLength: 112
+    textLength: 121
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: d459812c75b7946928eab09c4a3bf020, type: 3}
   - rows:
@@ -115,9 +194,31 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u5DE6\u908A"
+      - Character
+      - -250
+      - 0
+      - 200
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
+    - rowIndex: 2
+      debugIndex: 2
+      strings:
+      - "\u53F3\u908A"
+      - Character
+      - 250
+      - 0
+      - 300
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232179/Scenarios/61232179.xls:Layer
     type: 1
-    textLength: 109
+    textLength: 146
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: d459812c75b7946928eab09c4a3bf020, type: 3}
   - rows:
