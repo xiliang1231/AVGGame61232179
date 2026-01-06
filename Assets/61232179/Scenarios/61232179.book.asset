@@ -60,7 +60,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u8CC7\u6599\u6211\u770B\u5B8C\u4E86\uFF0C\u54EA\u500B\u90E8\u5206\u4F60\u6700\u5728\u610F\uFF1F"
+      - "\u5225\u8AAA\u4E86\uFF0C\u4F60\u807D\u8D77\u4F86\u6BD4\u6211\u9084\u75DB"
       - 
       - A01
       isEmpty: 0
@@ -77,7 +77,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u59B3\u7684\u5B89\u5168\u3002"
+      - "\u56E0\u70BA\u6211\u77E5\u9053\u4F60\u7B49\u4E00\u4E0B\u6703\u4F86\u627E\u6211\uFF0C\u6211\u5BB6\u4E86\u65B0\u7684\u9632\u5F48\u5C64"
       - 
       - B01
       isEmpty: 0
@@ -94,7 +94,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u9019\u662F\u6700\u65B0\u7684\u60C5\u5831\u5305\uFF0C\u59B3\u5148\u904E\u76EE\u3002"
+      - "\u5225\u62B1\u6028"
       - 
       - B02
       isEmpty: 0
@@ -799,7 +799,7 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232179/Scenarios/61232179.xls:Start
     type: 1
-    textLength: 954
+    textLength: 956
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: d459812c75b7946928eab09c4a3bf020, type: 3}
     entityIndexTbl: 
@@ -1340,7 +1340,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u8CC7\u6599\u6211\u770B\u5B8C\u4E86\uFF0C\u54EA\u500B\u90E8\u5206\u4F60\u6700\u5728\u610F\uFF1F"
+      - "\u5225\u8AAA\u4E86\uFF0C\u4F60\u807D\u8D77\u4F86\u6BD4\u6211\u9084\u75DB"
       - 
       - A01
       isEmpty: 0
@@ -1357,7 +1357,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u59B3\u7684\u5B89\u5168\u3002"
+      - "\u56E0\u70BA\u6211\u77E5\u9053\u4F60\u7B49\u4E00\u4E0B\u6703\u4F86\u627E\u6211\uFF0C\u6211\u5BB6\u4E86\u65B0\u7684\u9632\u5F48\u5C64"
       - 
       - B01
       isEmpty: 0
@@ -1374,7 +1374,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - "\u9019\u662F\u6700\u65B0\u7684\u60C5\u5831\u5305\uFF0C\u59B3\u5148\u904E\u76EE\u3002"
+      - "\u5225\u62B1\u6028"
       - 
       - B02
       isEmpty: 0
@@ -2079,6 +2079,6 @@ MonoBehaviour:
       debugInfo: 
     name: Assets/61232179/Scenarios/61232179.xls:Start
     type: 1
-    textLength: 954
+    textLength: 956
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: d459812c75b7946928eab09c4a3bf020, type: 3}

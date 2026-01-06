@@ -5364,9 +5364,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0
+    x: 0.00019770119
     y: 0
-    width: 1
+    width: 0.9996046
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -5618,7 +5618,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -5641,8 +5641,8 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 0
   m_fontSizeMax: 0
-  m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -15566,7 +15566,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 424, y: -260}
-  m_SizeDelta: {x: 160, y: 60}
+  m_SizeDelta: {x: 196.86, y: 55.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &890588583
 MonoBehaviour:
@@ -15644,7 +15644,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 822229722d8054b3788de5f5c61c3898, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ad54d89887e1048d0a8c235cbc07ccbf, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -21272,7 +21272,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 424, y: -80}
-  m_SizeDelta: {x: 160, y: 60}
+  m_SizeDelta: {x: 196.86, y: 55.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1168317815
 MonoBehaviour:
@@ -21350,7 +21350,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 822229722d8054b3788de5f5c61c3898, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ad54d89887e1048d0a8c235cbc07ccbf, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -24932,7 +24932,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -24955,8 +24955,8 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -25745,7 +25745,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -25768,8 +25768,8 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -26298,7 +26298,7 @@ MonoBehaviour:
   m_fontColor32:
     serializedVersion: 2
     rgba: 4278190080
-  m_fontColor: {r: 0, g: 0, b: 0, a: 1}
+  m_fontColor: {r: 1, g: 1, b: 1, a: 1}
   m_enableVertexGradient: 0
   m_colorMode: 3
   m_fontColorGradient:
@@ -26321,8 +26321,8 @@ MonoBehaviour:
   m_enableAutoSizing: 0
   m_fontSizeMin: 18
   m_fontSizeMax: 72
-  m_fontStyle: 0
-  m_HorizontalAlignment: 1
+  m_fontStyle: 1
+  m_HorizontalAlignment: 2
   m_VerticalAlignment: 512
   m_textAlignment: 65535
   m_characterSpacing: 0
@@ -27510,9 +27510,9 @@ Camera:
   m_LensShift: {x: 0, y: 0}
   m_NormalizedViewPortRect:
     serializedVersion: 2
-    x: 0
+    x: 0.00019770119
     y: 0
-    width: 1
+    width: 0.9996046
     height: 1
   near clip plane: 0.3
   far clip plane: 1000
@@ -29034,7 +29034,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 424, y: -140}
-  m_SizeDelta: {x: 160, y: 60}
+  m_SizeDelta: {x: 196.86, y: 55.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1660411218
 MonoBehaviour:
@@ -29112,7 +29112,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 822229722d8054b3788de5f5c61c3898, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ad54d89887e1048d0a8c235cbc07ccbf, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -30392,7 +30392,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 73d7ef5c9f6ba480bb1df568e1d3724f, type: 3}
+  m_Sprite: {fileID: 21300000, guid: 40e098aa0424441288eafd3bcea3bed4, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
@@ -30554,7 +30554,7 @@ RectTransform:
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
   m_AnchoredPosition: {x: 424, y: -200}
-  m_SizeDelta: {x: 160, y: 60}
+  m_SizeDelta: {x: 196.86, y: 55.1}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1744874855
 MonoBehaviour:
@@ -30632,7 +30632,7 @@ MonoBehaviour:
   m_OnCullStateChanged:
     m_PersistentCalls:
       m_Calls: []
-  m_Sprite: {fileID: 21300000, guid: 822229722d8054b3788de5f5c61c3898, type: 3}
+  m_Sprite: {fileID: 21300000, guid: ad54d89887e1048d0a8c235cbc07ccbf, type: 3}
   m_Type: 0
   m_PreserveAspect: 0
   m_FillCenter: 1
