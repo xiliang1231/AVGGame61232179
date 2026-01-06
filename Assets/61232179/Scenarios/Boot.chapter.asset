@@ -147,7 +147,7 @@ MonoBehaviour:
       - 
       - 
       - 
-      - C.png
+      - C.jpg
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
@@ -211,14 +211,14 @@ MonoBehaviour:
       - "\u53F3\u908A"
       - Character
       - 250
-      - 0
+      - -100
       - 300
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
     name: Assets/61232179/Scenarios/61232179.xls:Layer
     type: 1
-    textLength: 146
+    textLength: 149
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: d459812c75b7946928eab09c4a3bf020, type: 3}
   - rows:
@@ -385,9 +385,19 @@ MonoBehaviour:
       isEmpty: 0
       isCommentOut: 0
       debugInfo: 
+    - rowIndex: 1
+      debugIndex: 1
+      strings:
+      - "\u80CC\u666F\u97F3\u6A02"
+      - 
+      - Bgm
+      - M01.mp3
+      isEmpty: 0
+      isCommentOut: 0
+      debugInfo: 
     name: Assets/61232179/Scenarios/61232179.xls:Sound
     type: 1
-    textLength: 37
+    textLength: 51
     headerRow: 0
     sourceAssetInEditor: {fileID: 102900000, guid: d459812c75b7946928eab09c4a3bf020, type: 3}
   - rows:
